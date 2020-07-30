@@ -1,0 +1,6 @@
+,CallNumber,IncidentNumber,CallType,CallDate,WatchDate,ReceivedDtTm,EntryDtTm,CallFinal ,Unit
+0,1030104,30612,Medical Incident,4/12/2000,4/12/2000,4/12/2000 21:09,4/12/2000 21:10,Other,True
+1,1030106,30614,Medical Incident,4/12/2000,4/12/2000,4/12/2000 21:09,4/12/2000 21:10,Other,False
+2,1030107,30615,Alarms,4/12/2000,4/12/2000,4/12/2000 21:13,4/12/2000 21:13,Other,False
+3,1030108,30616,Medical Incident,4/12/2000,4/12/2000,4/12/2000 21:14,4/12/2000 21:16,Other,False
+4,2222222,111111,Pravee,2020-07-30,2020-07-30,2020-07-30,2020-07-30,Other,False
